@@ -4,3 +4,4 @@ threading
 findall
 writer
 datetime
+sqllite3
